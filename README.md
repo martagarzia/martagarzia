@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martagarzia
 
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Git and HTML
 
 <!---
 - 👀 I’m interested in ...
