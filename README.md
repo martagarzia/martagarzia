@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martagarzia
 
-- 🌱 I’m currently learning Git and C
+- 🌱 I’m currently learning C
 
 <!---
 - 👀 I’m interested in ...
