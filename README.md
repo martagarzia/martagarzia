@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @martagarzia
-
-- 🌱 I’m currently learning C
+- Hi, I’m @martagarzia
+- I’m currently learning C
 
 <!---
+- 👋 Hi, I’m @martagarzia
+- 🌱 I’m currently learning C
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
